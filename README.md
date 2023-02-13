@@ -11,3 +11,5 @@ Bare for at se hvordan github fungerer.
 Prove Prop 1.B (iii):
 
 if $x>y\geq z$, then $x>z$
+
+if $x\succ y\succeq z$, then $x\succ z$.
