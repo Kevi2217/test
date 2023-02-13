@@ -16,5 +16,4 @@ if $x\succ y\succeq z$, then $x\succ z$.
 
 Let $x,y,z \in X$, $x\tilde x$ and $x \tilde y \tilde z$.
 
-
-$x~x$
+Let $x,y,z \in X$, $x x$ and $x \sim y \sim z$.
